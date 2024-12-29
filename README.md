@@ -11,6 +11,19 @@ A visually appealing desktop application that provides current weather informati
 - 🎨 **Modern UI**: A clean and responsive interface styled using PyQt5.
 
 ---
+**Screenshots** :
+
+
+
+
+![image](https://github.com/user-attachments/assets/35646722-02eb-45d8-9954-ba0323e38f87)
+
+
+
+![image](https://github.com/user-attachments/assets/ff74c445-2be9-4b90-9186-668d631fb744)
+
+
+---
 ## Getting Started
 
 ### Prerequisites
