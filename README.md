@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 - Python 3.6 or newer
 - `pip` (Python package manager)
 - install **PyQt5**
-- also download **rquestes** if not downloaded
+- install **rquestes** library if not installed.
 ### Installation
 
 1. **Clone the Repository**
@@ -49,5 +49,16 @@ Sign up at [OpenWeatherMap](https://openweathermap.org/) to get a free API key.<
 Replace the placeholder API key in the code (api_key = "your_api_key") with your actual API key.
 
 **P.S** : In the project you will find my own API to fast test the app, but you can create yours and replace it.
-   
+
+
+
+
+
+## Disclaimer
+
+This project was created after watching the tutorial video "[How to Build a Weather App with Python and PyQt5](https://youtu.be/Q4377DH5Jso?si=dwHnKaoYmyKh2vJA)". However, I have added some additional features and modifications, including:
+
+- **Enhanced UI**: Improved layout and styling to create a more user-friendly interface.
+- **Temperature Conversion**: Added functionality to toggle between Celsius and Fahrenheit temperature units.
+
     
